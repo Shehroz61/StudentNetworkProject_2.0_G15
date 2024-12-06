@@ -1,7 +1,4 @@
-
-		
-		
-		//Logic by Muhammad Ammar
+//Logic by Muhammad Ammar
 //Code by Shehroz Hameed
 //Code Pushed By Hafsa
 #include<iostream>
@@ -63,3 +60,9 @@ int main (){
 	return 0;
 	
 }
+		
+		
+		
+	
+
+	
