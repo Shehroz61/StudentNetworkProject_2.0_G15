@@ -1,3 +1,7 @@
+
+		//Logic by Muhammad Ammar
+//Code by Shehroz Hameed
+//Code Pushed By Hafsa
 #include<iostream>
 #include<fstream>
 #include <sstream>
@@ -54,6 +58,6 @@ int main (){
 	int arr2[STUDENT_COUNT];
 	//function to form popular friend
 	popularfriend(arr1,arr2,STUDENT_COUNT,TOTAL_COUNT);
-	return 0;
+	return 0;
 	
 }
